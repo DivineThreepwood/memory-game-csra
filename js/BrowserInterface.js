@@ -14,11 +14,11 @@
   /************ Start hard coded settings ******************/
 
   // How long a non matching card is displayed once clicked.
-  var nonMatchingCardTime = 1000;
+  var nonMatchingCardTime = 5000;
 
   // Shuffle card images: How many different images are available to shuffle
   // from?
-  var imagesAvailable = 15;
+  var imagesAvailable = 10;
 
   /************ End hard coded settings ******************/
 
@@ -88,16 +88,16 @@
     var message = "";
 
     if (score == 100) {
-      message = "Amazing job!"
+      message = "Dr Nerd!"
     }
     else if (score >= 70 ) {
-      message = "Great job!"
+      message = "Nice job! Ready to do the paper work and start the recording..."
     }
     else if (score >= 50) {
-      message = "Great job!"
+      message = "You were too slow, the projector is already in standby again!"
     }
     else {
-      message = "You can do better.";
+      message = "Cool down the MOTU and try it again...";
     }
 
     return message;
