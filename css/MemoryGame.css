@@ -239,64 +239,64 @@ body {
 }
 
 .back.card-1 {
-  background-image: url(../mages/csra/water1.png);
+  background-image: url(../images/csra/water1.png);
 }
 .back.matching.card-1 {
-  background-image: url(../mages/csra/water2.png);
+  background-image: url(../images/csra/water2.png);
 }
 .back.card-2 {
-  background-image: url(../mages/csra/face1.png);
+  background-image: url(../images/csra/face1.png);
 }
 .back.matching.card-2 {
-  background-image: url(../mages/csra/face2.png);
+  background-image: url(../images/csra/face2.png);
 }
 .back.card-3 {
-  background-image: url(../mages/csra/light1.png);
+  background-image: url(../images/csra/light1.png);
 }
 .back.matching.card-3 {
-  background-image: url(../mages/csra/light2.png);
+  background-image: url(../images/csra/light2.png);
 }
 .back.card-4 {
-  background-image: url(../mages/csra/plant1.png);
+  background-image: url(../images/csra/plant1.png);
 }
 .back.matching.card-4 {
-  background-image: url(../mages/csra/plant2.png);
+  background-image: url(../images/csra/plant2.png);
 }
 .back.card-5 {
-  background-image: url(../mages/csra/bartoc1.jpg);
+  background-image: url(../images/csra/bartoc1.jpg);
 }
 .back.matching.card-5 {
-  background-image: url(../mages/csra/bartoc2.jpg);
+  background-image: url(../images/csra/bartoc2.jpg);
 }
 .back.card-6 {
-  background-image: url(../mages/csra/bath1.png);
+  background-image: url(../images/csra/bath1.png);
 }
 .back.matching.card-6 {
-  background-image: url(../mages/csra/bath2.png);
+  background-image: url(../images/csra/bath2.png);
 }
 .back.card-7 {
-  background-image: url(../mages/csra/happy1.jpg);
+  background-image: url(../images/csra/happy1.jpg);
 }
 .back.matching.card-7 {
-  background-image: url(../mages/csra/happy2.png);
+  background-image: url(../images/csra/happy2.png);
 }
 .back.card-8 {
-  background-image: url(../mages/csra/kitchen1.png);
+  background-image: url(../images/csra/kitchen1.png);
 }
 .back.matching.card-8 {
-  background-image: url(../mages/csra/kitchen2.png);
+  background-image: url(../images/csra/kitchen2.png);
 }
 .back.card-9 {
-  background-image: url(../mages/csra/meka1.png);
+  background-image: url(../images/csra/meka1.png);
 }
 .back.matching.card-9 {
-  background-image: url(../mages/csra/meka2.png);
+  background-image: url(../images/csra/meka2.png);
 }
 .back.card-10 {
-  background-image: url(../mages/csra/party1.jpg);
+  background-image: url(../images/csra/party1.jpg);
 }
 .back.matching.card-10 {
-  background-image: url(../mages/csra/party2.png);
+  background-image: url(../images/csra/party2.png);
 }
 
 /** Matching Cards **/
@@ -306,11 +306,11 @@ body {
  * of the matching cards. See the example below.
  *
  * .back.card-1 {
- *   background-image: url(../mages/csra/apple_1.jpg);
+ *   background-image: url(../images/csra/apple_1.jpg);
  * }
  *
  * .back.matching.card-1 {
- *   background-image: url(../mages/csra/apple_2.jpg);
+ *   background-image: url(../images/csra/apple_2.jpg);
  * }
  *
  */
