@@ -14,7 +14,7 @@
   /************ Start hard coded settings ******************/
 
   // How long a non matching card is displayed once clicked.
-  var nonMatchingCardTime = 5000;
+  var nonMatchingCardTime = 2500;
 
   // Shuffle card images: How many different images are available to shuffle
   // from?
